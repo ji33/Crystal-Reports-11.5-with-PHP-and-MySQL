@@ -51,4 +51,3 @@ $creport->Export(false);
 $creport = null; 
 $crapp = null; 
 $ObjectFactory = null; 
-As you see In the above code, I need to connect the Mysql server which I have been trying to do for the last few days. I have tried many examples on the net, but most of them are for SQL Server, not MySQL.
